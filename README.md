@@ -24,3 +24,11 @@ Best model: LightGBM (F1 ≈ 0.596).
 Boosting models outperformed traditional classifiers.
 
 Key predictors: inpatient visits, emergency visits, insulin use, age.
+
+
+# License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
+

@@ -3,7 +3,7 @@ Preidicting Readmission in Dabietic Patients
 # Overview
 This project applies machine learning to predict 30-day readmission in diabetic patients using the Diabetes 130-US hospitals dataset
 .
-We compare traditional classifiers (Logistic Regression, Decision Tree, Random Forest, KNN) with boosting models (Gradient Boosting, XGBoost, LightGBM, CatBoost).
+I compare traditional classifiers (Logistic Regression, Decision Tree, Random Forest, KNN) with boosting models (Gradient Boosting, XGBoost, LightGBM, CatBoost).
 
 # Workflow
 
